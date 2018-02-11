@@ -1,0 +1,3 @@
+https://pypi.python.org/packages/source/T/Twisted/Twisted-15.2.1.tar.bz2#egg=Twisted
+Scrapy
+http://twistedmatrix.com/Releases/Twisted/17.9/Twisted-17.9.0.tar.bz2#egg=Twisted

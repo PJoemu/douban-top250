@@ -1,0 +1,7 @@
+.idea/*
+
+*.pyc
+*.log
+config/*
+media/*
+将删除 .idea/
